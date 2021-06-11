@@ -1,0 +1,3 @@
+qi = 0.999
+name = input("Please enter your name")
+print
